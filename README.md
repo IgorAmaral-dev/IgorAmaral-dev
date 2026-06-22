@@ -5,7 +5,7 @@ Aqui você encontra meus projetos, exercícios de lógica e códigos organizados
 | Linguagem / Tech | Descrição do que estou desenvolvendo | Meus Repositórios |
 | :--- | :--- | :--- |
 | **VisuAlg 3.0**  | Fundamentos de lógica de programação, algoritmos e estruturas de repetição/decisão em Português Estruturado. | [Acessar Algoritmos VisuAlg](https://github.com/IgorAmaral-dev/estudos_programacao/tree/main/visualg) |
-| **C++**  | Programação estruturada e orientada a objetos, manipulação de variáveis, ponteiros e algoritmos de alta performance. | [Acessar Códigos C++](LINK_DO_SEU_REPOSITORIO_OU_PASTA_CPP) |
+| **C++**  | Programação estruturada e orientada a objetos, manipulação de variáveis, ponteiros e algoritmos de alta performance. | [Acessar Códigos C++](https://github.com/IgorAmaral-dev/estudos_programacao/tree/main/c%2B%2B)) |
 | **Git & GitHub**  | Versionamento de código, organização de portfólio e boas práticas de commits. | [Acessar Histórico de Commits](LINK_DO_SEU_PERFIL_OU_REPOSITORIO_GIT) |
 
 <!--
