@@ -1,4 +1,4 @@
-## 🗂️ Catálogo de Códigos & Estudos
+## 🗂️ Catálogo de Códigos e Estudos
 
 Aqui você encontra meus projetos, exercícios de lógica e códigos organizados pelas tecnologias que utilizo no meu aprendizado:
 
